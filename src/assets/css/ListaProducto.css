@@ -1,0 +1,8 @@
+.home {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 90vh;
+  overflow: scroll;
+  margin-top: 30px;
+}

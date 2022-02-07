@@ -1,0 +1,10 @@
+.carrito {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.carrito-precio {
+  width: 100%;
+  text-align: right;
+}

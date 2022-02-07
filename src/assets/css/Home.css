@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap");
+
+.carritou {
+  width: 36px;
+  position: absolute;
+  right: 24px;
+  top: 50px;
+}
+.volver {
+  width: 20px;
+  position: absolute;
+  left: 24px;
+  top: 58px;
+}
+.titulo {
+  text-align: center;
+  font-weight: 700;
+  margin-top: 0px;
+}
